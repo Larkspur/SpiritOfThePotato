@@ -8,3 +8,6 @@ This website is actually haunted by the spirit of a potato. THE potato. So be wa
 888 <br>
 888 <br>
 888 <br>
+
+
+<a href="www.google.com">Click to Learn More about the Potato</a>
