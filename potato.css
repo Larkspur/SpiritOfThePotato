@@ -10,3 +10,6 @@ input:hover{
   opacity: 0.75;
   border-color: green;
 }
+input:onclick{
+  border-color: red;
+}
