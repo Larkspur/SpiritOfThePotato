@@ -4,7 +4,9 @@ h3{
 input{
   font-family: times new roman;
   font-size: 24px;
+  display: hidden;
 }
 input:hover{
   opacity: 0.75;
+  border-color: green;
 }
