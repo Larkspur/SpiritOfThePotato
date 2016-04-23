@@ -12,5 +12,5 @@ input:focus{
   background-color: rgb(255, 150, 150);
 }
 -webkit-input-placeholder:focus{
-   display: none;
+   color: rgb(255, 150, 150);
 }
