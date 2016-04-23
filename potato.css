@@ -11,5 +11,5 @@ input:hover{
   border-color: green;
 }
 input:focus{
-  font-family: arial;
+  color: rgba(255, 0, 0, 50);
 }
