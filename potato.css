@@ -10,6 +10,5 @@ input:hover{
   border-color: green;
 }
 input:focus{
-  background-color: rgb(255, 100, 100);
-  opacity: 0.75;
+  background-color: rgb(255, 150, 150);
 }
