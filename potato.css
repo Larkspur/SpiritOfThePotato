@@ -7,10 +7,9 @@ input{
   display: hidden;
 }
 input:hover{
-  opacity: 0.75;
   border-color: green;
 }
 input:focus{
   background-color: rgb(255, 0, 0);
-  opacity: 0.5;
+  opacity: 0.75;
 }
